@@ -6,8 +6,8 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
     # Azure AI Speech
-    azure_speech_key: str = Field(..., alias="AZURE_SPEECH_KEY")
-    azure_speech_region: str = Field(..., alias="AZURE_SPEECH_REGION")
+    azure_speech_key: str = Field(default="", alias="AZURE_SPEECH_KEY")
+    azure_speech_region: str = Field(default="", alias="AZURE_SPEECH_REGION")
     azure_tts_voice_ru: str = Field(default="ru-RU-SvetlanaNeural", alias="AZURE_TTS_VOICE_RU")
     azure_tts_voice_uz: str = Field(default="uz-UZ-MadinaNeural", alias="AZURE_TTS_VOICE_UZ")
     azure_tts_rate: str = Field(default="+25%", alias="AZURE_TTS_RATE")
