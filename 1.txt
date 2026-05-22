@@ -1,0 +1,314 @@
+Davlat ekologik ekspertizasi
+to'g'risida nizomga
+ilova
+Davlat ekologik ekspertizasidan o'tkazilishi majburiy bo'lgan atrof-muhitga tasir ko'rsatadigan faoliyat turlari va obektlar
+ro'yxati
+Atrof-muhitga yuqori (I toifa) darajada xavfli tasir ko'rsatadigan mo'ljallanayotgan, rejalashtirilayotgan yoki amalga oshirilayotgan xo'jalik va boshqa turdagi faoliyat turlari va obektlari
+Atrof-muhitga o'rtacha (II toifa) darajada xavfli tasir ko'rsatadigan mo'ljallanayotgan, rejalashtirilayotgan yoki amalga oshirilayotgan xo'jalik 
+va boshqa turdagi faoliyat turlari va obektlari
+Atrof-muhitga past (III toifa) va mahalliy darajada xavfli tasir ko'rsatadigan mo'ljallanayotgan, rejalashtirilayotgan yoki amalga oshirilayotgan xo'jalik 
+va boshqa turdagi faoliyat turlari va obektlari
+Izoh.
+1. Ushbu ro'yxatga kiritilmagan faoliyat turlari ham davlat ekologik ekspertizasidan o'tkaziladi, bunda mazkur faoliyat turining qaysi toifaga mansubligi Ekologiya va iqlim o'zgarishi milliy qo'mitasi huzuridagi ekspertlar kengashi tomonidan taqdim etilgan materiallar asosida yoki joyiga chiqib o'rganish natijasida aniqlanadi.
+Agar davlat ekologik ekspertizasini o'tkazish zarurati bo'lmasa, obekt faoliyati qonun hujjatlarida belgilangan talablarga rioya qilish bilan cheklanadi.
+2. Agar davlat ekologik ekspertizasi uchun bitta buyurtmachi tomonidan taqdim etilgan materiallar kompleks hisoblansa va atrof-muhitga tasir ko'rsatadigan hamda bitta sanoat maydonida joylashgan turli toifadagi bir qancha obektlardan iborat bo'lsa, ularning atrof-muhitga tasir ko'rsatishi yuqori toifa bo'yicha belgilanadi.
+3. Davlat ekologik ekspertizasidan o'tkazilishi majburiy bo'lgan atrof muhitga tasir ko'rsatadigan faoliyat turlari va obektlar ro'yxatida keltirilmagan faoliyat turlari va obektlar buyurtmachi (tashabbuskor) so'roviga asosan skrinindan o'tkaziladi.
+4. Atmosfera havosiga ifloslantiruvchi moddalar chiqarilishining, oqova suvlar bilan birga ifloslantiruvchi moddalar oqizilishining ekologik normativlari, shuningdek chiqindilar hosil bo'lishi va joylashtirilishining normativlari tasir ko'rsatishning har bir turi bo'yicha alohida-alohida davlat ekologik ekspertizasidan o'tkazilishi lozim.
+* Ekspertlar kengashi qaroriga muvofiq davlat ekologik ekspertizasini o'tkazish uchun to'lov miqdori hamda  muddati qayta ko'rib chiqiladi.
+T/r	Faoliyat turlari va obektlari	Ekspertizani o'tkazish muddati 
+(ish kuni)	To'lov miqdori (BHM)
+1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi
+1.1.	“A” va “M” toifadagi yo'llari va ko'priklari, tonnellar metro, temir yo'llar (umumiy foydalanishda bo'lmagan temir yo'llar bundan mustasno) va yuk terminallari, logistika markazlari, shu jumladan daryo portlari va pristanlar.	25	32,5
+1.2.	Aeroportlar.	25	32,5
+1.3.	Mashinasozlik sanoati (aviasozlik, vagonsozlik, avtomobilsozlik, traktorsozlik, motor hamda mototransport ishlab chiqarish va boshqalar).	25	32,5
+1.4.	Elektrotexnika va radiotexnika sanoati korxonalari.	25	32,5
+2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati
+2.1.	Atom stantsiyalari, yadroviy reaktorli qurilmalar, atom sanoati chiqindilari va boshqa radioaktiv chiqindilarga ishlov berish yoki utilizatsiya qilish qurilmalari, shu jumladan modulli atom reaktorlari (SMR).	25	*
+2.2.	300 MVt yoki undan ortiq quvvatga ega bo'lgan issiqlik elektr stantsiyalari 
+va boshqa energetik yondirish qurilmalari.	25	32,5
+2.3.	100 MVt va undan ortiq quvvatga ega bo'lgan fotoelektr va shamol elektr stantsiyalari.	25	32,5
+2.4.	30 MVt-dan ortiq quvvatga ega bo'lgan gidroelektrostantsiyalar.	25	26
+2.5.	110 kV va undan yuqori kuchlanishga ega bo'lgan (havo va kabel) elektr uzatish liniyalari, shu jumladan transformator stantsiyalari (podstantsiyalar).	25	26
+2.6.	Bioreaktor umumiy sig'imi 500 m3dan yuqori bo'lgan biogaz qurilmalari.	25	32,5
+2.7.	Transformator ishlab chiqarishga mo'ljallangan korxonalar.	25	32,5
+2.8.	Vodorod ishlab chiqarish.	25	32,5
+2.9.	100 MVt va undan yuqori quvvatga ega bo'lgan elektr energiyasini saqlash tizimlari.	25	32,5
+2.10.	Kabel mahsulotlarini ishlab chiqarish (eritish va quyish).	25	32,5
+3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati
+3.1.	Neft va neft mahsulotlarini saqlash hajmi bo'yicha I toifadagi bazalar.	25	32,5
+3.2.	Yoqilg'i resurslarini (neft, gaz, ko'mir, kondensat va boshqalar) geologik jihatdan o'rganish va  qazib olish, quduqlarni jihozlash ishlari.	25	32,5
+3.3.	0,6 MPa dan yuqori bosimli  gaz quvurlari.	25	32,5
+3.4.	Magistral neft quvurlari.	25	32,5
+3.5.	Neft va gazni qayta ishlash korxonalari (tayyor moylardan moylash mahsulotlari ishlab chiqaruvchi korxonalar bundan mustasno).	25	32,5
+3.6.	Er osti gaz omborlari.	25	32,5
+3.7.	Ko'mirni boyitish hamda uni qayta ishlash korxonalari.	25	32,5
+4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati
+4.1.	Kon-boyitish fabrikalari.	25	32,5
+4.2.	Ruda, kimyoviy xom ashyoni va qimmatbaho metallar hamda qimmatbaho toshlar bo'lgan er qari uchastkalarini geologik jihatdan o'rganish va qazib olish, qazib olishda hosil bo'ladigan karerlarni va ularga tutash hudularni rekultivatsiya qilish ishlari.	25	32,5
+4.3.	Qora va rangli metallurgiya zavodlari.	25	32,5
+4.4.	Er ostida ishqor bilan yuvish poligonlari, shuningdek, zich holatda ishqor bilan yuvish texnologiyasidan foydalanadigan korxonalar.	25	32,5
+4.5.	Akkumulyatorlar va uning elementlari, shuningdek, galvanik batareyalar ishlab chiqarish korxonalari.	25	32,5
+4.6.	Ishlab chiqarish quvvati soatiga 
+20 tonnadan ortiq qora metallar prokati (quymasiz).	25	32,5
+5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari
+5.1.	Respublika va viloyatlararo ahamiyatga ega bo'lgan suv o'tkazgichlar.	25	32,5
+5.2.	Suv omborlari va to'g'onlar.	25	32,5
+5.3.	Daryo va soy o'zanlarini to'planib qolgan noruda materiallardan tozalash ishlari.	25	32,5
+5.4.	500 gektardan ortiq maydondagi erlarni  o'zlashtirish, rekonstruktsiya   qilish 
+va meliorativ holatini yaxshilash, erlardan foydalanish va ularni muhofaza qilish tadbirlari.	25	32,5
+6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi
+6.1.	Sutkalik ish hajmi 280 ming m3 ortiq bo'lgan oqova suv tozalash inshootlari.	25	32,5
+6.2.	Gazsimon yoki suyuq xlordan foydalanuvchi xloratorlar.	25	32,5
+7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish
+7.1.	Maishiy chiqindi poligonlari (200 ming kishidan ortiq aholisi mavjud shaharlar va aholi punktlari uchun).	25	32,5
+7.2.	Chiqindilarni yoqish zavodlari 
+va krematoriyalar, shu jumladan, B, V, G sinfga mansub tibbiyot chiqindilari nobud bo'lgan hayvonlar va qushlarni yoqish moslamalari.	25	32,5
+7.3.	Zaharli, chiqindilarni shuningdek, shlam va shlaklarni to'plash, ko'mish yoki utilizatsiya qilish poligonlari, ularda rekultivatsiya qilish ishlari.	25	32,5
+7.4.	Xavflilik darajasining I va II sinfiga mansub chiqindilarni qayta ishlash korxonalari.	25	32,5
+8. Qurilish sanoati	8. Qurilish sanoati	8. Qurilish sanoati	8. Qurilish sanoati
+8.1.	Asbest va tarkibida asbest bo'lgan buyumlarni ishlab chiqarish korxonalari.	25	32,5
+8.2.	Tarkibida zaharli aralashmalar bo'lgan oyna, zaharli kimyoviy moddalar hamda 
+I va II xavflilik sinfga mansub birikmalar ishlab chiqarish korxonalari, shu jumladan, listlangan oyna, shishali momiq va shisha mato ishlab chiqarish korxonalari.	25	32,5
+8.3.	Tsement ishlab chiqarish korxonalari.	25	32,5
+9. Kimyo sanoati	9. Kimyo sanoati	9. Kimyo sanoati	9. Kimyo sanoati
+9.1.	Portlovchi moddalarni ishlab chiqarish 
+va saqlash korxonalari.	25	32,5
+9.2.	Xalqaro bitimlar bilan tartibga solinadigan, tarkibida zaharli moddalar bo'lgan asbob-uskunalar yoki qurilmalarni ishlab chiqarish korxonalari.	25	32,5
+9.3.	Radioaktiv moddalar (izotoplar) ishlab chiqarish, ularni ishlatish va saqlash (tibbiyot tizimi bundan mustasno) korxonalari.	25	32,5
+9.4.	Respublika ahamiyatiga ega bo'lgan zaharli kimyoviy moddalar omborxonalari.	25	32,5
+9.5.	Kimyoviy majmualar va zavodlar valvakin tsexlar.	25	32,5
+9.6.	O'simliklarni himoya qilish uchun foydalaniladigan kimyoviy vositalarni ishlab chiqarish.	25	32,5
+9.7.	Tsellyuloza ishlab chiqarish.	25	32,5
+9.8.	Biotexnologiyalardan foydalanuvchi biokimyoviy zavod va korxonalar.	25	32,5
+9.9.	Elektrokimyoviy va kimyoviy qoplama usullaridan foydalanadigan korxonalar.	25	32,5
+10. Farmatsevtika sanoati	10. Farmatsevtika sanoati	10. Farmatsevtika sanoati	10. Farmatsevtika sanoati
+10.1.	Dori, dori substantsiyalari va galen preparatlarini ishlab chiqaruvchi (tayyor dorivor vositalarni qadoqlash korxonalari bundan mustasno) farmatsevtika korxonalari.	25	32,5
+11. Terini qayta ishlash sanoati	11. Terini qayta ishlash sanoati	11. Terini qayta ishlash sanoati	11. Terini qayta ishlash sanoati
+11.1.	Teri-ko'nchilik korxonalari.	25	32,5
+12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati
+12.1.	Elevator, tegirmon (quvvati sutkasiga 
+150 tonna) va aralash ozuqa tsexidan (quvvati sutkasiga 5 tonna) iborat un kombinatlari.	25	32,5
+12.2.	Ekstraktsiya, birlamchi xom ashyodan sovun tayyorlash (xom yog' kislotalari, 
+- kislotalarini distillash, sovun tayyorlash), yog'larni gidrogenlash yoki transesterifikatsiya qilish, glitserin ishlab chiqarish tsexlaridan iborat yog'-moy kombinatlari va korxonalari (yog'-moy kombinatlari).	25	32,5
+12.3.	Tamaki mahsulotlarini ishlab chiqarish 
+va tamakini qayta ishlash korxonalari.	25	32,5
+12.4.	Shakar ishlab chiqarish korxonalari.	25	32,5
+13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari
+13.1.	2000 boshdan ortiq yirik qoramol, mayda qoramol, ot va 6000 boshdan ortiq yosh qoramol uchun chorvachilik fermalari.	25	32,5
+13.2.	1200 boshdan ortiq cho'chqa boqiladigan cho'chqachilik komplekslari.	25	32,5
+13.3.	Yiliga 400 mingdan ortiq tovuq va 3 milliondan ortiq broyler etishtiriladigan parrandachilik fabrikalari.	25	32,5
+14. Engil sanoat	14. Engil sanoat	14. Engil sanoat	14. Engil sanoat
+14.1.	Birlamchi xomashyodan qog'oz va karton ishlab chiqarish korxonalari.	25	32,5
+T/r	Faoliyat turlari va obektlari	Ekspertizani o'tkazish muddati (ish kuni)	To'lov miqdori (BXM)
+1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi	1. Transport, elektrotexnika va yo'l xo'jaligi
+1.1.	“D” toifali avtomobil yo'llari, tonnellari va ko'priklari	25	19,5
+1.2.	Temir yo'l korxonalari, vagon va lokomotiv depolari, temir yo'l stantsiyalari va vokzallari.	25	19,5
+1.4.	Optik tola ishlab chiqarish korxonalari.	25	19,5
+1.5.	Motorsiz transport vositalarini ishlab chiqarish, shu jumladan velosiped, samokat va boshqalar (quymasiz).	25	19,5
+1.6.	Kabel mahsulotlarini ishlab chiqarish (eritishsiz va quymasiz).	25	19,5
+1.7.	Aerodromlar.	25	19,5
+2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati
+2.1.	35 kV dan 110 kV kuchlanishga ega bo'lgan (havo va kabel) elektr uzatish liniyalari, 35 kV dan 110 kV kuchlanishga ega bo'lgan va transformator stantsiyalari (podstantsiyalar).	25	19,5
+2.2.	100 MVt dan 300 MVt gacha quvvatga ega bo'lgan issiqlik elektr stantsiyalari 
+va boshqa energetik yondirish qurilmalari.	25	19,5
+2.3.	10 MVtdan 100 MVt  quvvatgacha ega bo'lgan fotoelektr va shamol elektr stantsiyalari.	25	19,5
+2.4.	Bioreaktor umumiy sig'imi 100 dan 500 m3gacha bo'lgan biogaz qurilmalari.	25	19,5
+2.5.	Ko'mir kuli omborlari.	25	19,5
+2.6.	10 MVt-dan 100 MVt-gacha quvvatga ega bo'lgan elektr energiyasini saqlash tizimlari.	25	19,5
+2.7.	Biologik yoqilg'i ishlab chiqairish korxonalari.	25	19,5
+3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati
+3.1.	Neft va neft mahsulotlarini saqlash hajmi bo'yicha II toifadagi bazalar.	25	19,5
+3.2.	Yoqilg'i resurslarini, geofizik 
+va geologik tadqiqotlarni seysmik 
+va elektr qidiruv.	25	19,5
+3.3.	0,3 MPa dan 0,63 MPa gacha o'rta bosimli gaz quvurlari.	25	19,5
+3.4.	Tayyor moylardan moylash materiallari ishlab chiqaruvchi korxonalar.	25	19,5
+4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati	4. Metallurgiya, tog'-kon va geologiya sanoati
+4.1.	Noruda foydali qazilmalarni geologik jihatdan o'rganish va  ularni qazib olish ishlari.	25	19,5
+4.2.	Quvvati sutkasiga 1 tonnagacha qora 
+va rangli metall, ularning qotishmalarini induktsion va gaz pechlarida eritish (qo'rg'oshin, kadmiy va boshqa toksik metallari bundan mustasno).	25	19,5
+4.3.	Ishlab chiqarish quvvati soatiga 
+20 tonnadan kam qora metallar prokati (quymasiz).	25	19,5
+4.4.	Geofizik va geologik tadqiqotlarni seysmik va elektr razvedka qilish ishlari.	25	19,5
+5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari	5. Qishloq va suv ho'jaligi tarmoqlari
+5.1.	Suv o'tkazish quvvati sekundiga 50 kub metrdan ortiq bo'lgan magistral kanallar, loyiha bo'yicha hisoblangan quvvati sekundiga 20 kub metrdan ortiq bo'lgan kollektorlar.	25	19,5
+5.2.	Viloyatlararo ahamiyatga ega bo'lgan er osti suvlarini olish inshootlari.	25	19,5
+5.3.	Dambalar.	25	19,5
+5.4.	Daryo qirg'oqlarni mustahkamlash ishlari (keng tarqalgan foydali qazilmalar olinmagan holda).	25	19,5
+5.5.	200 gektardan 500 gektargacha bo'lgan maydondagi sug'oriladigan erlarni rekonstruktsiya qilish va meliorativ holatini yaxshilash, 200 dan 
+500 gektargacha yangi erlarni o'zlashtirish.	25	19,5
+5.6.	Respublika va viloyatlararo ahamiyatga ega bo'lgan ichimlik va oqova suvlarni uzatish tarmoqlari.	25	19,5
+6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi	6. Kommunal xizmat ko'rsatish sohasi
+6.1.	Quvvati sutkasiga 50 ming m3-dan 
+280 ming m3 -gacha bo'lgan oqova  suv tozalash inshootlari	25	19,5
+7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish	7. Chiqindilar bilan bog'liq ishlarni tashkil etish
+7.1.	Qattiq maishiy chiqindilarni to'plash maydonchalari (100 mingdan 200 ming kishigacha istiqomat qiladigan aholi punktlari uchun).	25	19,5
+7.2.	Nobud bo'lgan hayvonlarni ko'mish joylari.	25	19,5
+7.3.	Xavflilik darajasi III sinfga mansub chiqindilarni qayta ishlash korxonalari	25	19,5
+7.4.	Qurilish chiqindilari poligonlari.	25	19,5
+8. Qurilish sanoati	8. Qurilish sanoati	8. Qurilish sanoati	8. Qurilish sanoati
+8.1.	Asfalt-beton zavodlari, ruberoid ishlab chiqarish.	25	19,5
+8.2.	Qurilish sanoati korxonalari, asbest 
+va tsement ishlab chiqarish bundan mustasno.	25	19,5
+8.3.	Tsement va boshqa mayda zarrali qurilish materiallarini mexanizatsiyalashgan tarzda qadoqlash korxonalari.	25	19,5
+8.4.	Yog'och-qipiq va yog'och-tolali plita ishlab chiqarish korxonalari, shu jumladan ularni lok bilan kimyoviy to'yintirish.	25	19,5
+8.5.	Bo'yoqlar, Lok va lok-buyoq ishlab chiqarish korxonalari, suv emulsiyasi asosidagi buyoq bundan mustasno.	25	19,5
+8.6.	Mebel ishlab chiqarish zavod 
+va fabrikalari.	25	19,5
+8.7.	Keramik plitalar, shu jumladan, sanitar-texnik mahsulotlar ishlab chiqarish korxonalari.	25	19,5
+8.8.	Yoqish usuli bilan qurilish materiallarini ishlab chiqarish, tsement ishlab chiqarish bundan mustasno.	25	19,5
+9. Kimyo sanoati	9. Kimyo sanoati	9. Kimyo sanoati	9. Kimyo sanoati
+9.1.	Qoraqalpog'iston Respublikasi va viloyatlar ahamiyatiga ega bo'lgan zaharli kimyoviy moddalar, shu jumladan, o'g'itlar omborxonalari va zaharli chiqindixonalarni rekultivatsiya qilish ishlari.	25	19,5
+9.2.	Yiliga 300 tonnadan ortiq gazmol 
+va qog'ozni lok bilan kimyoviy to'yintirish korxonalari shuningdek, xavflilik darajasi III – V sinfga mansub zaharli kimyoviy moddalar 
+va birikmalar ishlab chiqarish korxonalari.	25	19,5
+9.3.	Aralashtirish va eritish jarayonlaridan foydalanadigan kompleks mineral o'g'itlar va boshqa qorishmalarni ishlab chiqaruvchi korxonalari.	25	19,5
+9.4.	Kosmetika preparatlari va mahsulotlarini ishlab chiqarish korxonalari.	25	19,5
+9.5.	Birlamchi xomashyodan qattiq va suyuq sovun ishlab chiqarish korxonalari.	25	19,5
+9.6.	Ishlab chiqarish hajmi yiliga 
+300 tonnadan ortiq sintetik va kompozit materiallardan polimer mahsulotlar, shu jumladan qurilish mahsulotlari (gulqog'oz, linoleum va laminat qoplama va shu kabilar) ishlab chiqarish korxonalari.	25	19,5
+9.7.	Rezina xom ashyosi, mahsulotlari 
+va buyumlarini ishlab chiqarish, shu jumladan rezinotexnika va  lateks buyumlarini ishlab chiqarish korxonalari.	25	19,5
+9.8.	Tayyor komponentlardan yuvish va tozalash mahsulotlarini ishlab chiqarish korxonalari.	25	19,5
+9.9.	Biologik, radioaktiv va yonuvchi-portlovchi moddalar bilan ishlovchi markaziy laboratoriyalar (laboratoriya faoliyatida foydalaniladigan jihoz 
+va uskunalar bundan mustasno).	25	19,5
+10. Farmatsevtika sanoati	10. Farmatsevtika sanoati	10. Farmatsevtika sanoati	10. Farmatsevtika sanoati
+10.1.	Tibbiyot mahsulotlari (bir martalik shpritslar, tomchilatib yuborish tizimlari), tibbiy havfsizlantiruvchi 
+va shaxsiy himoya vositalari ishlab chiqarish.	25	19,5
+10.2.	Farmokologik, kosmetik vositalar ishlab chiqarish va oziq-ovqat sanoatida foydalaniladigan modda va qorishmalar uchun ekstraktsiya ishlatadigan korxonalar.	25	19,5
+11. Engil sanoat	11. Engil sanoat	11. Engil sanoat	11. Engil sanoat
+11.1.	Sutkasiga 20 tonnadan kam qog'oz 
+va karton ishlab chiqarish korxonalari.	25	19,5
+11.2.	Bo'yash va oqartirish tsexlari bo'lgan ip yigiruv va to'qimachilik fabrikalari.	25	19,5
+11.3.	Tsellyuloza-kog'oz ishlab chikarish korxonalari	25	19,5
+11.4.	Paxtani va paxta tolasini qayta ishlash korxonalari.	25	19,5
+11.5.	Pillani qayta ishlash korxonalari.	25	19,5
+11.6.	Charmni bo'yash va loklash shu jumladan oshlangan teriga  pardoz berish korxonalari.	25	19,5
+11.7.	Junni birlamchi qayta ishlash korxonalari va tsexlari.	25	19,5
+11.8.	Lub sanoati korxonalari.	25	19,5
+12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati	12. Oziq-ovqat sanoati
+12.1.	Oziq-ovqat mahsulotlari va biologik qo'shimchalar ishlab chiqarish korxonalari.	25	19,5
+12.2.	Ishlab chiqarish quvvati sutkasiga 
+20 tonnadan ko'p non zavodlari, shu jumladan konditer va makaron mahsulotlarini ishlab chiqarish korxonalari.	25	19,5
+12.3.	Spirt va alkogolli mahsulotlarni ishlab chiqarish va qadoqlash korxonalari.	25	19,5
+12.4.	Yog' ekstraktsiya zavodlari.	25	19,5
+12.5.	Tegirmonlar (quvvati sutkasiga 
+150 tonnadan kam don yanchadigan), guruch maydalagichlar, don mahsulotlari ishlab chiqaruvchi korxonalar.	25	19,5
+13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari	13. Chorvachilik tarmoqlari
+13.1.	100 mingdan ortiq tovuq, o'rdak, 
+50 mingdan ortiq kurka, g'oz etishtirish, so'yish va mahsulotni qayta ishlashni o'z ichiga olgan parrandachilik fabrikalari.	25	19,5
+13.2.	100 dan 2000 boshgacha yirik qoramol (barcha yo'nalishlar bo'yicha) va ot fermalari, 200 dan 2000 boshgacha mayda qoramol fermalari, ot, qo'y fermalari, 
+50 dan 1200 boshgacha cho'chqachilik fermalari.	25	19,5
+13.3.	Sutkasiga 50 boshdan ortiq yirik qoramol, 200 boshdan ortiq mayda qoramol va sutkasiga 5 ming boshdan ortiq parrandalarni so'yish 
+va mahsulotni qayta ishlash obektlari.	25	19,5
+T/r	Faoliyat turlari va obektlari	Ekspertizani o'tkazish
+(ish kuni)	To'lov miqdori (BXM)
+1.Transport, elektrotexnika va yo'l xo'jaligi	1.Transport, elektrotexnika va yo'l xo'jaligi	1.Transport, elektrotexnika va yo'l xo'jaligi	1.Transport, elektrotexnika va yo'l xo'jaligi
+1.1.	“V” toifadagi avtomobil yo'llari, tonnellar va ko'priklar.	15	13
+1.2.	Avtotransport korxonalari, tramvay, trolleybus parklari va depolari.	15	9,75
+1.3.	Umumiy foydalanishda bo'lmagan temir yo'llar.	15	9,75
+1.4.	Elektr asbob-uskunalarini yig'ish 
+va tamirlash, metallga ishlov berish korxonalari (shu jumladan tsexlari).	15	9,75
+1.5.	Optik tolali va boshqa kabellarni yotqizish, avtonom quvvat manbalari (dizel generatorlari) bilan uyali aloqa antenalarini o'rnatish.	15	6,5
+1.6.	Dvigatel va mashinalarni tamirlash (avtoservis punktlari) shuningdek ularni bo'yash, va avtomobillarni yuvish shoxobchalari.	15	9,75
+1.7.	Avtomobil sporti majmualari, avto poyga trassalari va yo'laklari.	15	19,5
+2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati	2. Energetika sanoati
+2.1.	Bioreaktor sig'imi 100 m3gacha bo'lgan biogaz qurilmalari (shaxsiy ehtiyojlar uchun biogaz ishlab chiqarish bundan mustasno).	15	13
+2.2.	35 kVt gacha kuchlanishga ega bo'lgan (havo va kabel) elektr uzatish liniyalari, shu jumladan transformator stantsiyalari (podstantsiyalar).	15	9,75
+2.3.	Quvvati 100 MVtgacha bo'lgan issiqlik elektr stantsiyalari va boshqa  energetik yondirish qurilmalari.	15	13
+2.4.	10 MVt quvvatgacha bo'lgan fotoelektr va shamol elektr stantsiyalari (binolarning tom va fasad qismida o'rnatishga mo'ljallangan fotoelektr stantsiyalari bundan mustasno).	15	6,5
+2.5.	Quvvati 30 MVt va undan kam bo'lgan gidroelektrostantsiyalar.	15	6,5
+2.6.	Isitish tizimiga (tabiiy gaz, ko'mir va boshqa yonilg'i turlarida ishlovchi) ega issiqxonalar, shaxsiy yordamchi xo'jaliklar va dexqon xo'jaliklari bundan mustasno.	15	6,5
+2.7.	Tayyor komponentlardan transformator yig'ish.	15	9,75
+2.8.	10 MVt gacha quvvatga ega bo'lgan elektr energiyasini saqlash tizimlari	15	9,75
+2.9.	Yog'och ko'mir, faollashtirilgan ko'mir va ko'mir briketlarini ishlab chiqarish korxonalari va ularni saqlash omborlari	15	13
+2.10.	Geotermal stantsiyalar.	15	3,9
+3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati	3. Neft va gaz sanoati
+3.1.	Avtomobilga yonilg'i va gaz quyish stantsiyalari.	15	13
+3.2.	0,3 MPa gacha bo'lgan past bosimli gaz quvurlari	15	13
+3.3.	Shaharlar va boshqa aholi punktlari hududiga yotqizilgan neft quvurlari	15	13
+3.4.	Neft va neft mahsulotlarini saqlash hajmi bo'yicha III toifadagi bazalar.	15	13
+3.5.	Inert gazlar, karbonat angidrid gazi 
+va boshqa gazlar ishlab chiqarish korxonalari ( shu jumladan tsexlari).	15	13
+3.6.	Rezinotexnika buyumlarini ishlab chiqarish  korxonalari (vulkanizatsiyasiz).	15	6,5
+3.7.	Korxona va tashkilotlarning neft mahsulotlari omborlari.	15	13
+4. Poligrafiya	4. Poligrafiya	4. Poligrafiya	4. Poligrafiya
+4.1	Bosmaxonalar, poligrafiya korxonalari va bosma-matbaa mahsulotlarini ishlab chiqarish.	15	6,5
+5. Metallurgiya, tog'-kon va geologiya sanoati	5. Metallurgiya, tog'-kon va geologiya sanoati	5. Metallurgiya, tog'-kon va geologiya sanoati	5. Metallurgiya, tog'-kon va geologiya sanoati
+5.1.	Noruda foydali qazilmalarni qayta ishlash korxonalari (foydali qazilma konlari bundan mustasno)	15	13
+6. Qishloq va suv ho'jaligi tarmoqlari	6. Qishloq va suv ho'jaligi tarmoqlari	6. Qishloq va suv ho'jaligi tarmoqlari	6. Qishloq va suv ho'jaligi tarmoqlari
+6.1.	Suv o'tkazish quvvati  50 m3/sek-dan kam bo'lgan magistral kanallar, sug'orish kanallari, har sekundda loyiha bo'yicha hisoblangan quvvati 20 kub metrdan kam bo'lgan kollektorn-drenaj tarmoqlari.	15	13
+6.2.	200 gektargacha bo'lgan maydondagi sug'oriladigan erlarni rekonstruktsiya qilish va meliorativ holatini yaxshilash, 200 gektargacha yangi erlarni o'zlashtirish.	15	9,75
+6.3.	50 tonnadan ortiq sig'imli sovutgich qurilmalari va  50 tonnadan kam sig'imli sovutgich qurilmalariga ega omborxonalar, ozon qatlamini buzuvchi hamda issiqhona gazlarini hosil qiluvchi moddalarni to'ldirish ustaxonalari.	15	9,75
+6.4.	Sel suvini to'plash omborlari.	15	9,75
+6.5.	Qoraqalpog'iston Respublikasi, viloyatlar va Toshkent shahar hamda tuman ahamiyatiga ega bo'lgan suv o'tkazgichlar.	15	9,75
+7. Kommunal xizmat ko'rsatish sohasi	7. Kommunal xizmat ko'rsatish sohasi	7. Kommunal xizmat ko'rsatish sohasi	7. Kommunal xizmat ko'rsatish sohasi
+7.1.	Quvvati sutkasiga 50 ming m3 dan kam bo'lgan oqova  suv tozalash inshootlari	15	13
+7.2.	Tuman va shahar ahamiyatga ega bo'lgan ichimlik va oqova suvlarni uzatish tarmoqlari	15	9,75
+7.3.	Qoraqalpog'iston Respublikasi, viloyatlar va Toshkent shahar ahamiyatiga ega bo'lgan er osti suvlarini olish inshootlari.	15	9,75
+8. Chiqindilar bilan bog'liq ishlarni tashkil etish	8. Chiqindilar bilan bog'liq ishlarni tashkil etish	8. Chiqindilar bilan bog'liq ishlarni tashkil etish	8. Chiqindilar bilan bog'liq ishlarni tashkil etish
+8.1.	Maishiy chiqindilarni qayta yuklash stantsiyalari.	15	13
+8.2.	Aholisi 100 ming kishidan kam bo'lgan aholi punktlari uchun maishiy chiqindilar poligonlari.	15	13
+8.3.	Xavflilik darajasi IV va V sinfga mansub chiqindilarni saralash va qayta ishlash korxonalari (qog'oz va karton ishlab chiarish bundan mustasno).	15	9,75
+9. Qurilish sanoati	9. Qurilish sanoati	9. Qurilish sanoati	9. Qurilish sanoati
+9.1.	Xom g'isht, shlakoblok, yo'lak plitkalari, penoblok va gazobloklar ishlab chiqarish korxonalari.	15	9,75
+9.2.	Qurilishda foydalaniladigan pardozlash materiallarini ishlab chiqarish, shuningdek, ohak, gips, shpaklevka va bo'r ishlab chiqarish korxonalari (keramik plita va sanitariya texnik vositalar ishlab chiqarish bundan mustanso)..	15	13
+9.3.	Shisha, keramika va kulolchilik mahsulotlarini ishlab chiqaruvchi hunarmandchilik korxonalar.	15	13
+9.4.	Toshni qayta ishlash korxonalari va tsexlari.	15	13
+9.5.	Tsement va boshqa mayda zarrali materiallarini qo'lda qadoqlash tsexlari.	15	6,5
+9.6.	Yog'ochsozlik, mebel ishlab chiqarish, shu jumladan yig'ish va tamirlash korxonalari, shu jumladan, tsexlari.	15	9,75
+9.7.	Suv emulsiyasi asosidagi bo'yoq mahsulotlarini ishlab chiqarish.	15	9,75
+9.8.	Shishadan tarkibida zaharli moddalar bo'lmagan buyumlarni ishlab chiqarish korxonalari (shu jumladan tsexlari).	15	9,75
+9.9.	Chinni buyumlarni ishlab chiqarish korxonalari (shu jumladan tsexlari).	15	9,75
+10. Kimyo sanoati	10. Kimyo sanoati	10. Kimyo sanoati	10. Kimyo sanoati
+10.1.	Yiliga 300 tonnagacha gazmol va qog'ozni lok bilan kimyoviy to'yintirish korxonalari.	15	13
+10.2.	Tuman ahamiyatiga ega bo'lgan zaharli kimyoviy moddalar, shu jumladan, o'g'itlar omborlari va zaharli chiqindixonalarni rekultivatsiya qilish ishlari.	15	13
+10.3.	Xloratorlar (gazsimon yoki suyuq xlordan foydalanishsiz).	15	9,75
+10.4.	Qattiq, kukun va suyuq holdagi kir yuvish vositalarini qadoqlash.	15	6,5
+10.5.	Fizik, kimyoviy va mikrobiologik tahlil markaziy laboratoriyalari.	15	9,75
+10.6.	Salfetka, hojatxona qog'ozi, tagliklar va gigienik vositalarni ishlab chiqarish korxonalari.	15	9,75
+10.7.	Ishlab chiqarish hajmi yiliga 300 tonnadan kam bo'lgan sintetik va kompozit materiallardan polimer mahsulotlar, shu jumladan qurilish mahsulotlari (gulqog'oz, linoleum va laminat qoplama va shu kabilar) ishlab chiqarish korxonalari.	15	13
+10.8.	Zargarlik buyumlarini ishlab chiqarish	15	13
+10.9.	O'simliklarni himoya qilish kimyoviy vositalarini saqlash va realizatsiya qilish.	15	9,75
+10.10.	Kaltsiy karbidi ishlab chiqarish tsexlari.	15	6,5
+11. Farmatsevtika sanoati	11. Farmatsevtika sanoati	11. Farmatsevtika sanoati	11. Farmatsevtika sanoati
+11.1.	Tayyor dorivor vositalarni, shuningdek, oziq-ovqat mahsulotlarini (choy, tuz, shakar va boshqalarni) qadoqlash korxonalari (shu jumladan tsexlari).	15	9,75
+11.2.	Dorivor o'simliklarni yig'ish, etishtirish va birlamchi qayta ishlash (quritish, qadoqlash).	15	9,75
+12. Engil sanoat	12. Engil sanoat	12. Engil sanoat	12. Engil sanoat
+12.2.	Gilam ishlab chiqarish korxonlari.	15	13
+12.3.	Oqartirishsiz paxta titish tsexlari	15	6,5
+12.4.	Poyabzal ishlab chiqarish korxonalari. charm-attorlik buyumlarini ishlab chiqarish korxonalari.	15	9,75
+12.5.	Bo'yash va oqartirish tsexlari bo'lmagan yigiruv, to'quv hamda tikuvchilik fabrikalari. charm-attorlik buyumlarini ishlab chiqarish korxonalari	15	9,75
+12.6.	Pillani qabul qilish va saqlash punktlari.	15	6,5
+12.7.	Teriga ishlov berish korxonalari (oshlash va bo'yash bundan mustasno).	15	9,75
+13. Oziq-ovqat sanoati	13. Oziq-ovqat sanoati	13. Oziq-ovqat sanoati	13. Oziq-ovqat sanoati
+13.1.	Alkogolsiz ichimliklar ishlab chiqarish va qadoqlash korxonalari.	15	9,75
+13.2.	Quvvati 1 tonnadan 5 tonnagacha bo'lgan  un ishlab chiqarish va kepakni qayta ishlash  korxonalari va tsexlari.	15	9,75
+13.3.	Sut va sut mahsulotlarini qayta ishlash korxonalari (shu jumladan tsexlari)	15	9,75
+13.4.	Omuxta em ishlab chiqarish korxonalari.	15	13
+13.5.	Ishlab chiqarish quvvati sutgasiga 20 tonna gacha bo'lgan non, qandolat va makaron ishlab chiqarish  tsexlari.	15	9,75
+13.6.	O'simlik yog'larni pressllash usuli bilan bog'liq ishlab chiqarish korxonalari.	15	9,75
+13.7.	Qishloq xo'jaligi mahsulotlarini qayta ishlash va konservalash korxonalari (shu jumladan tsexlari).	15	9,75
+14. Chorvachilik tarmoqlari	14. Chorvachilik tarmoqlari	14. Chorvachilik tarmoqlari	14. Chorvachilik tarmoqlari
+14.1	Qoramol va ot xo'jaliklari 
+(100 boshgacha), mayda  qoramol fermalari (200 boshdan ortiq), cho'chqa fermalari (5 dan 50 boshgacha),  quyon fermalari (1000 boshdan ortiq).	15	9,75
+14.2.	Mo'ynachilik xo'jaliklari va pitomniklari (norka, ondatra, shinshilla va boshqalar).	15	9,75
+14.3.	0,5 mingdan 100 ming boshgacha tovuq va o'rdak, 0,25 mingdan 50 ming boshgacha kurka va g'oz etishtirish parrandachilik fermalari (so'yish va qayta ishlashni o'z ichiga olmagan fermalar).	15	9,75
+14.4.	Baliqchilik xo'jaliklari, shuningdek, baliqni qayta ishlash korxonalari.	15	6,5
+14.5.	Ovchilik, o'rmon va o'rmon-ovchilik xo'jaliklari, ov qilinadigan va (yoki) baliq ovlanadigan joylar.	15	9,75
+14.6.	Yovvoyi hayvonlarni boshqa joyga ko'chirish, iqlimga moslashtirish va chatishtirish hamda yovvoyi holda o'suvchi o'simliklarni boshqa joyga ko'chirish, iqlimga moslashtirish va duragaylash faoliyati.	15	6,5
+14.7.	0,5 mingdan 100 ming boshgacha tovuq va o'rdak, 0,25 mingdan 50 ming boshgacha kurka va g'oz etishtirish parrandachilik fermalari (so'yish va qayta ishlashni o'z ichiga olmagan fermalar).	15	13
+14.8.	Qarovsiz hayvonlarni saqlash va parvarishlash bo'yicha pitomniklar.	15	13
+14.9.	Hayvonlar joylashgan veterinariya klinikalari, vivariylar, pitomniklar, kinologiya markazlari, qarovsiz hayvonlarni saqlash va parvarishlash bo'yicha pitomniklar.	15	13
+14.10.	Yaylovlardan foydalanish va ularni muhofaza qilish.	15	13
+15. Infratuzilma obektlari	15. Infratuzilma obektlari	15. Infratuzilma obektlari	15. Infratuzilma obektlari
+15.1.	Madaniyat inshootlari, kontsert, kino va tomosha zallari, kutubxonalar,  teatrlar, tsirklar, o'yin attraktsion va o'yin avtomatlari zallari.	15	9,75
+15.2.	Ko'kalamzorlar hududlari va obektlari (shahar o'rmonlari, o'rmon-bog'lar, istirohat bog'lari, xiyobonlar, bog'lar, sayilgohlar), hayvonot bog'lari, suniy ko'llar, plyajlar, akvaparklar.	15	6,5
+15.3.	Jismoniy tarbiya, sport majmualari, shu jumladan inshootlari, bolalar-o'smirlar sport maktablari, qayiq, velo va chang'i stantsiyalari.	15	6,5
+15.4.	Tibbiyot va sog'liqni saqlash muassasalari, sanatoriylar, dam olish  va sog'lomlashtirish maskanlari, oromgohlar, dorixonalar, turistik komplekslar, dor yo'li.	15	6,5
+15.5.	Talim muassasalari (umumtalim, o'rta maxsus, kasb-hunar va oliy o'quv yurtlari, ilmiy-tadqiqot muassasalari), ilmiy-tadqiqot muassasalari.	15	6,5
+15.6.	Umumiy ovqatlanish, maishiy xizmat ko'rsatish muassasalari va tashkilotlari, bank-moliya muassasalari, qurilish-kommunal tashkilotlari, aloqa hamda transport korxonalari, noturar joy bino va inshootlar.	15	3,9
+15.7.	Muqobil go'sht (o'simlik, madaniy) ishlab chiqarish.	15	13
+15.8.	Savdo markazlari, bozorlar (oziq-ovqat, nooziq-ovqat, sanoat), savdo maydoni 200 m2 dan ziyod bo'lgan do'konlar va qandolatchilik (pishirish) do'konlari	15	6,5
+15.9.	Huquqni muhofaza qilish organlarining maxsus obektlari.	15	3,9
+15.10.	Kimyoviy tozalash va kir yuvish korxonalari (shu jumladan tsexlari).	15	6,5

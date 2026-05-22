@@ -1,0 +1,15 @@
+venv
+__pycache__
+.git
+.agent
+.env
+key
+*.pyc
+*.pem
+*.key
+app/__pycache__
+knowledge_full.txt
+tunnel_*.txt
+dump.txt
+docx_dump.txt
+gen-lang-client-*.json
